@@ -1,0 +1,17 @@
+To look into:
+
+
+1. heatmap
+	> density of crime per area
+		> violent/non-violent
+
+2. Trends by year
+	> violent crime
+	> non-violent crime
+	> total crime
+
+3. Offense per neighborhood
+	> most common offense per nieghborhood
+	> is there a relationship between nieghborhood and percent of crime that is violent?
+
+
